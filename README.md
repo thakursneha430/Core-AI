@@ -90,26 +90,6 @@ Every answer is supported with relevant source chunks, making responses transpar
 
 ---
 
-## 📂 Project Structure
-
-```text
-CORE-AI
-│
-├── api/
-├── frontend/
-├── src/
-│   ├── ingestion/
-│   ├── processing/
-│   ├── embeddings/
-│   ├── vectorstore/
-│   ├── rag/
-│   └── pipeline/
-│
-├── data/
-├── Dockerfile
-├── requirements.txt
-└── README.md
-```
 
 ---
 
@@ -153,26 +133,6 @@ http://localhost:8000
 - List the important topics.
 - Who is the author?
 - What skills are mentioned?
-
----
-
-## 📸 Demo
-
-<p align="center">
-Add screenshots or GIFs of your application here.
-</p>
-
----
-
-## 🎯 Future Improvements
-
-- 📑 Multiple document support
-- 💬 Conversation history
-- ⚡ Streaming AI responses
-- 🖼 OCR support for scanned documents
-- 🧠 Multimodal image understanding
-- 🔐 User authentication
-- ☁ Cloud deployment
 
 ---
 
