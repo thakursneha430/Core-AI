@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 CORE AI
+# 💻 CORE AI
 
 ### Your Intelligent Document Assistant for Instant Answers
 
@@ -71,8 +71,6 @@ Every answer is supported with relevant source chunks, making responses transpar
                         ▼
         AI Response + Source References
 ```
-
----
 
 ## 🛠 Tech Stack
 
